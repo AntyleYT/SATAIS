@@ -35,7 +35,7 @@
 * ### If you are on PyCharm !
 * launch "trainer.py"
 * wait																																																													
-* when finished : launch ``"app.py"		``															
+* when finished : launch ``"app.py"``																	
 * ### If you are on cmd or python's cmd :																	
 * tap ``python trainer.py``																			
 * wait													
