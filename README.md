@@ -14,7 +14,8 @@
 * Runable on Windows Linux and MacOS with Python and maybe Java 
 * Utilisable for Discord , Minecraft and more
 
-(SATAIS don't have link for now)
+Discord link : https://discord.gg/dd8TzgCK8Z
+
 
 
 # How to use SATAIS (on python ) ?
