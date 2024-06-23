@@ -1,4 +1,5 @@
 # Smart Adaptive Text Artificial Intelligence System
+# ALPHA 0 : 
 # Non-functionnal , don't use for now .
  SATAIS is a generative AI created by @antyle_yt 
 
