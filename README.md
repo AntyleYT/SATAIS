@@ -24,12 +24,12 @@ Discord link : https://discord.gg/dd8TzgCK8Z
 * Download the code (at Release or Source-code) ans dezip it .
 * ## Step two  : 
 * If you are on PyCharm , open the project and click on "Readme.md"  ; 
-* If you are simply on CMD or python's CMD :
+* If you are simply on CMD  :
      tap ``cd C:\exact\location\of\the\file ``
 * ## Step three :
 * ### If you are on Pycharm :
 * Go to settings --> Project: "name" --> Python interpreter --> the "**+**" button --> Search Numpy and install it and also tensorflow.
-* ### If you are on cmd or python's cmd :
+* ### If you are on cmd :
 * run as administrator 
 * Tap : ``pip install numpy``
 * Tap : ``pip install tensorflow``
@@ -38,7 +38,7 @@ Discord link : https://discord.gg/dd8TzgCK8Z
 * launch "trainer.py"
 * wait																																																													
 * when finished : launch ``"app.py"``																	
-* ### If you are on cmd or python's cmd :																	
+* ### If you are on cmd :																	
 * tap ``python trainer.py``																			
 * wait													
 * when finished : tap : ``python app.py``												
