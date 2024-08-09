@@ -1,5 +1,5 @@
 # Smart Adaptive Text Artificial Intelligence System
-# ALPHA 0 : 
+# TESTING BRANCHES : 
 # Non-functionnal , don't use for now .
  SATAIS is a generative AI created by @antyle_yt 
 
@@ -20,6 +20,8 @@ Discord link : https://discord.gg/dd8TzgCK8Z
 
 
 # How to use SATAIS (on python ) ?
+# __⚠️ YOU NEED LOT OF TIMES AND A GOOD COMPUTER (MACHINE LEARNING)__
+
 * ## Step one  : 
 * Download the code (at Release or Source-code) ans dezip it .
 * ## Step two  : 
