@@ -19,6 +19,7 @@ Discord link : https://discord.gg/dd8TzgCK8Z
 
 
 
+# __⚠️ YOU NEED LOT OF TIMES AND A GOOD COMPUTER (MACHINE LEARNING)__
 # How to use SATAIS (on python ) ?
 * ## Step one  : 
 * Download the code (at Release or Source-code) ans dezip it .
