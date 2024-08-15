@@ -1,6 +1,6 @@
 # Smart Adaptive Text Artificial Intelligence System
 # ALPHA 0.1 : 
-# Ia don't make logical text : version 1
+# AI don't make logical text : version 1
  SATAIS is a generative AI created by @antyle_yt 
 
 **All the code is open-source and customisable**
