@@ -1,5 +1,5 @@
 # Smart Adaptive Text Artificial Intelligence System
-# ALPHA @S0.0.1
+# ALPHA @S0.0.1-Alpha
  SATAIS is a generative AI created by @antyle_yt 
 
 **All the code is open-source and customisable**
