@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 import pickle
 
 # Load the model without compiling it
-model = load_model('text_generator_model.h5', compile=False)
+model = load_model('default-sataismodelv1.h5', compile=False)
 
 with open('tokenizer.pkl', 'rb') as file:
     tokenizer = pickle.load(file)
